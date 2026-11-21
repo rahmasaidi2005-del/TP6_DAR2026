@@ -1,0 +1,9 @@
+# Fichiers compiles
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+out/
+.settings/
